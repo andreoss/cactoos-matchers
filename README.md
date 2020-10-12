@@ -1,5 +1,6 @@
 [![Managed by Zerocracy](https://www.0crat.com/badge/C63314D6Z.svg)](https://www.0crat.com/p/C63314D6Z)
 [![Donate via Zerocracy](https://www.0crat.com/contrib-badge/C63314D6Z.svg)](https://www.0crat.com/contrib/C63314D6Z)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandreoss%2Fcactoos-matchers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandreoss%2Fcactoos-matchers?ref=badge_shield)
 
 [![EO principles respected here](http://www.elegantobjects.org/badge.svg)](http://www.elegantobjects.org)
 [![DevOps By Rultor.com](http://www.rultor.com/b/llorllale/cactoos-matchers)](http://www.rultor.com/p/llorllale/cactoos-matchers)
@@ -217,6 +218,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fandreoss%2Fcactoos-matchers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fandreoss%2Fcactoos-matchers?ref=badge_large)
 
 ## Contributors ✨
 
